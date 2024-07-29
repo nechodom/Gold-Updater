@@ -252,7 +252,7 @@ function gpu_log($message) {
 }
 
 function gpu_update_gold_prices() {
-    $apiKey = "goldapi-b9i0slxjd1yd4-io";
+    $apiKey = "here-enter-your-api-key";
     $symbol = "XAU";
     $curr = "CZK";
 
