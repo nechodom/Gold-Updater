@@ -50,6 +50,8 @@ Gold Price Updater is a WordPress plugin designed to automatically update the go
 
 **Note**: API keys should be securely stored and not hardcoded in the script. The provided code does not include actual API keys.
 
+**API Source**: The gold price data is fetched from [Gold API](https://www.goldapi.io).
+
 ---
 
 ### Example Code
